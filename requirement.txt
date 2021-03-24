@@ -1,6 +1,9 @@
 click==7.1.2
 fastapi==0.63.0
 h11==0.12.0
+mysql==0.0.2
+mysql-connector==2.2.9
+mysqlclient==2.0.3
 pydantic==1.8.1
 starlette==0.13.6
 typing-extensions==3.7.4.3
