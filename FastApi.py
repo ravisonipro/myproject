@@ -5,4 +5,3 @@ app=FastAPI()
 @app.get("/read_data")
 def test_root():
     return {"Hello":"World"}
-#this is comment
